@@ -1,3 +1,6 @@
+## My Resume
+![RESUME](https://github.com/billryan/resume/assets/77488628/c4bd1618-4073-4b49-86ec-40288b08bd69)
+
 # Résumé
 
 Hit branch [zh_CN](https://github.com/billryan/resume/tree/zh_CN) if you want a Simplified Chinese résumé.
