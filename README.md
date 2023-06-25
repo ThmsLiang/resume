@@ -1,5 +1,5 @@
 ## My Resume
-![RESUME](https://github.com/billryan/resume/assets/77488628/80a6f2d0-4f70-4e0c-b6a8-2f2f299d6128)
+![RESUME](https://github.com/billryan/resume/assets/77488628/aa3a9ddd-d4d8-4937-980f-ea69c79e0516)
 
 # Résumé
 
