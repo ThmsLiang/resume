@@ -50,8 +50,8 @@
 \role{Go, HTTP, Protobuf} {}
   A LRU \textbf{HTTP-based distributed cache system} written by \textbf{Golang}.
 \begin{itemize}
-  \item Implemented consistent hashing for keeping load balance and increasing cache flexibility.
-  \item Allowed concurrent read/write with mutex and implemented \textbf{singleflight} to avoid cache breakdown.
+  \item Built HTTP server and client for peers to communicate. Used \texbf{consistent hashing} for load balance.
+  \item Allowed concurrent read/write with Mutex and implemented \textbf{singleflight} to avoid cache breakdown.
   \item Optimized binary data communication between two peers with \textbf{Protobuf}.
 \end{itemize}
 
