@@ -48,10 +48,10 @@
 \section{Projects}
 \datedsubsection{\textbf{GoCache}}{June 2023 -- July 2023}
 \role{Go, HTTP, Protobuf} {}
-  A LRU \textbf{distributed cache system} written by Golang.
+  A LRU \textbf{HTTP-based distributed cache system} written by Golang.
 \begin{itemize}
-  \item Supported both local cache and \textbf{http-based} ditributed cache by building HTTP server and client in Go.
-  \item Allowed concurrent read/write from multiple \textbf{goroutine} with Go's Mutex.
+  \item Implemented consistent hashing for keeping load balance and increasing cache flexibility.
+  \item Allowed concurrent read/write with mutex and implemented \textbf{singleflight} to avoid cache breakdown.
   \item Optimized binary data communication between two peers with \textbf{Protobuf}.
 \end{itemize}
 
