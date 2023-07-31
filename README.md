@@ -1,5 +1,5 @@
 ## My Resume
-![RESUME](https://github.com/billryan/resume/assets/77488628/aa3a9ddd-d4d8-4937-980f-ea69c79e0516)
+![RESUME](https://github.com/ReaVNaiL/New-Grad-2024/assets/77488628/f54b57bd-0d68-4bab-b7a7-ca03687c1b09)
 
 # Résumé
 
